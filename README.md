@@ -1,1 +1,1 @@
-# smart_environments_lesson
+# smart_environments_MachineLearning
